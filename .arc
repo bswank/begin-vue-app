@@ -7,6 +7,7 @@ folder dist
 @http
 get /api
 get /
+post /users/create
 
 @tables
 data
